@@ -103,6 +103,8 @@
         	<div class="form-group">
 		<h2 class = "">PLEASE SIGN UP FIRST.</h2>
 		<h2 class = "">USER NEED TO SIGN UP.</h2>
+		<h2 class = "">HELLO!!!</h2>
+		<h2 class = "">WELCOME TO HERE!!!</h2>
             	<h2 class="">Sign Up.</h2>
             </div>
         
